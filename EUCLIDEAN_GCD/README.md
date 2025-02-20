@@ -54,12 +54,6 @@ Euclidean_GCD.java - Implements and animates Euclidean Algorithm for GCD
 - Add support for different sorting algorithms to compare their performances.
 - Optimize animation performance for larger datasets.
 
-## Contributions
-Contributions are welcome! Feel free to fork the repository and submit pull requests.
-
-## License
-This project is open-source and available under the [MIT License](LICENSE).
-
 
 ![Screenshot (599)](https://github.com/user-attachments/assets/a71ca76a-fa9e-41c9-8ed9-e86d586600ac)
 
