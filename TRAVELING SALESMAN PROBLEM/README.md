@@ -64,11 +64,6 @@ Upon running the program, a GUI window opens displaying:
 - Improve **road generation logic** for more realistic paths
 - Add **user input support** to specify cities manually
 
-## Author
-- **[Your Name]**
-- GitHub: [your-github-link](https://github.com/your-username)
 
-## License
-This project is open-source and available under the **MIT License**.
 
 ![image](https://github.com/user-attachments/assets/1f27654a-a1f3-49da-af2f-f9b1f9128781)
