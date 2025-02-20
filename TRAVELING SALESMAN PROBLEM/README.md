@@ -1,38 +1,35 @@
-# TSP Solver with Road Network Visualization
+# TSP Solver
 
 ## Description
-This project implements a **Traveling Salesperson Problem (TSP) Solver** with a graphical **road network visualization** using Java and Swing. It generates a set of cities, constructs a network of roads between them, and solves the TSP using the **Nearest Neighbor** and **2-opt Improvement** algorithms. The solution is animated in real-time.
+This project implements a graphical Travelling Salesperson Problem (TSP) solver using Java and Swing. It supports two algorithms:
+- **Nearest Neighbor** heuristic
+- **2-opt Improvement** for route optimization
+
+The visualization includes an animated tour display with interactive controls.
 
 ## Features
-- **Random city and road network generation**
-- **Graphical visualization** of cities and road paths
-- **TSP solving algorithms**:
-  - Nearest Neighbor
-  - 2-opt Improvement
-- **Real-time animation** of the computed tour
-- **Interactive GUI** with buttons to start algorithms
-- **Displays total tour distance**
+- Randomly generates cities and road networks.
+- Implements TSP algorithms for route optimization.
+- Interactive UI with animated route display.
+- Displays calculated tour distance.
 
-## Technologies Used
-- **Java** (Swing for GUI)
-- **Awt Graphics2D** (for rendering)
-- **Java Timer** (for animation control)
+## Usage
+1. Run the `Main` class in a Java IDE or using the command line.
+2. Click **Nearest Neighbor** to generate an initial tour.
+3. Click **2-opt Improvement** to optimize the tour.
+4. The visualization updates dynamically.
 
-## Installation
-1. Ensure you have **Java (JDK 8+)** installed on your system.
-2. Clone this repository:
-   ```sh
-   git clone https://github.com/your-username/TSP-Solver.git
-   ```
-3. Navigate to the project directory:
-   ```sh
-   cd TSP-Solver
-   ```
-4. Compile and run the program:
-   ```sh
-   javac Main.java
-   java Main
-   ```
+## Requirements
+- Java 8 or higher
+- Swing (included in Java SE)
+
+## File Structure
+- `City.java` - Represents a city with coordinates and road connections.
+- `RoadNetwork.java` - Generates random roads between cities.
+- `TSP.java` - Implements Nearest Neighbor and 2-opt algorithms.
+- `TSPVisualizer.java` - Handles graphical rendering and animation.
+- `Main.java` - Entry point to run the application.
+
 
 ## How to Use
 1. Run the program to generate a random set of cities and roads.
