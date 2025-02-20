@@ -23,14 +23,9 @@ This project provides visualizations for the Merge Sort algorithm on a linked li
 - Java Swing for GUI and animations
 
 ## File Structure
-```
-/ProjectRoot
-│── src/
-│   ├── MergeSortLinkedListVisualizer.java  # Implements and visualizes Merge Sort on linked lists
-│   ├── Euclidean_GCD.java                  # Implements and animates Euclidean Algorithm for GCD
-│── README.md                               # Project documentation
-│── LICENSE                                 # License information
-```
+MergeSortLinkedListVisualizer.java - Implements and visualizes Merge Sort on linked lists
+
+Euclidean_GCD.java - Implements and animates Euclidean Algorithm for GCD
 
 ## How to Run
 1. Clone this repository:
