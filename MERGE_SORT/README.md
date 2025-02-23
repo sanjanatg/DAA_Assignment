@@ -72,11 +72,6 @@ The linked list will be visualized as bars, and as the merge sort progresses, th
 - *Merge Sort Button*: Starts the merge sort algorithm and triggers the visual updates.
 - *Visualization*: The heights of the bars correspond to the values being sorted.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 ![image](https://github.com/user-attachments/assets/1a4cf48d-fb62-4459-93f3-6a324d09a6d6)
 
 This *README* gives a brief overview of the project, the steps to run it, the input-output process, and an explanation of the key components. It also includes instructions on setting up and running the project.
