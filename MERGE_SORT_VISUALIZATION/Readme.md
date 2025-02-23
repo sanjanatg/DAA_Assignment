@@ -1,6 +1,4 @@
-**___________________MERGE SORT VISUALIZATION________________________
 
-**
 # Merge Sort Visualization in Java
 
 This project is a graphical visualization of the **Merge Sort** algorithm implemented in Java. It provides a step-by-step view of how the Merge Sort algorithm divides and merges an array, making it easier to understand the sorting process.
