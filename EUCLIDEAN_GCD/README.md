@@ -1,15 +1,9 @@
-# Merge Sort and Euclidean GCD Visualization
+# Euclidean GCD Visualization
 
 ## Overview
-This project provides visualizations for the Merge Sort algorithm on a linked list and the Euclidean algorithm for computing the GCD (Greatest Common Divisor). The animations help users understand how these algorithms work step by step by displaying their intermediate processes in a user-friendly manner.
+This project provides visualizations for the Euclidean algorithm for computing the GCD (Greatest Common Divisor). The animations help users understand how this algorithm work step by step by displaying their intermediate processes in a user-friendly manner.
 
 ## Features
-### Merge Sort Visualization
-- Users can input a list of numbers separated by commas.
-- The program converts the list into a linked list and displays bars representing the values.
-- Clicking the "Merge Sort" button starts the sorting animation, showing how the list gets divided and merged.
-- Provides a step-by-step breakdown of how elements are sorted.
-
 ### Euclidean GCD Visualization
 - Users enter the number of values for which they want to compute the GCD.
 - The program takes individual inputs for the numbers.
@@ -23,7 +17,6 @@ This project provides visualizations for the Merge Sort algorithm on a linked li
 - Java Swing for GUI and animations
 
 ## File Structure
-MergeSortLinkedListVisualizer.java - Implements and visualizes Merge Sort on linked lists
 
 Euclidean_GCD.java - Implements and animates Euclidean Algorithm for GCD
 
@@ -33,14 +26,9 @@ Euclidean_GCD.java - Implements and animates Euclidean Algorithm for GCD
    git clone https://github.com/your-username/repository-name.git
    ```
 2. Open the project in an IDE like IntelliJ IDEA or Eclipse.
-3. Compile and run the `MergeSortLinkedListVisualizer.java` for merge sort visualization.
-4. Compile and run `Euclidean_GCD.java` for GCD visualization.
+3. Compile and run `Euclidean_GCD.java` for GCD visualization.
 
 ## Usage
-### Merge Sort
-- Enter numbers separated by commas.
-- Click "Merge Sort" to start the animation.
-- Watch as the list gets divided and merged in real-time.
 
 ### Euclidean GCD
 - Enter the number of values.
